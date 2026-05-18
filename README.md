@@ -53,13 +53,7 @@ Comprender el funcionamiento de la librería Pandas y aprender a utilizar sus pr
 
 Pandas es una librería de Python especializada en el análisis y manipulación de datos estructurados.
 
-<p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*5N0Q1Jv7zQF7QK1D-g20_Q.png" width="500">
-</p>
-
 Permite trabajar con tablas, filas y columnas de manera sencilla y eficiente.
-
-
 
 ## ¿Para qué sirve?
 
@@ -75,8 +69,6 @@ Pandas sirve para:
 ## Objetivo principal de Pandas
 
 El objetivo principal de Pandas es facilitar el procesamiento y análisis de datos mediante herramientas rápidas y fáciles de usar.
-
----
 
 ## Importancia en Inteligencia Artificial
 
@@ -106,7 +98,8 @@ Se trabajó con:
 ## Captura del Ejercicio 1
 
 <p align="center">
-  <img src="imagenes/ejercicio1.png" width="700">
+  <img src="<img width="1366" height="768" alt="Captura de pantalla (347)" src="https://github.com/user-attachments/assets/96d7be16-810c-480c-9b95-50232c8c705a" />
+">
 </p>
 
 
