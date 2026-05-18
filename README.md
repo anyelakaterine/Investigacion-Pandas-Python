@@ -98,7 +98,7 @@ Se trabajó con:
 ## Captura del Ejercicio 1
 
 <p align="center">
-  <img src="<img width="1366" height="768" alt="Captura de pantalla (347)" src="https://github.com/user-attachments/assets/96d7be16-810c-480c-9b95-50232c8c705a" />
+  <img src=""C:\Users\anyel\OneDrive\Documentos\Nueva carpeta\OneDrive\Imágenes\Screenshots\Captura de pantalla (347).png"" />
 ">
 </p>
 
