@@ -209,42 +209,6 @@ Se crearon datos sintéticos aleatorios para simular escenarios reales de análi
 
 ---
 
-## Ejercicio 5 — Estadísticas básicas
-
-Se utilizaron funciones estadísticas automáticas como promedio, valor mínimo, valor máximo y desviación estándar.
-
-### Resultado obtenido
-
-Se obtuvieron estadísticas automáticas sobre los datos numéricos utilizando la función `describe()` de Pandas.
-
-### Ejemplo del resultado
-
-| Estadística | Valor |
-|---|---|
-| Promedio | 24.25 |
-| Mínimo | 20 |
-| Máximo | 30 |
-| Desviación estándar | 4.35 |
-
----
-
-## Ejercicio 6 — Filtrado de datos
-
-Se aplicaron filtros para mostrar únicamente registros específicos según condiciones establecidas.
-
-### Resultado obtenido
-
-Se logró filtrar información específica dentro del DataFrame utilizando condiciones lógicas para seleccionar determinados registros.
-
-### Ejemplo del resultado
-
-| Nombre | Edad |
-|---|---|
-| Luis | 25 |
-| Carlos | 30 |
-
----
-
 # Herramientas Utilizadas
 
 - Python
@@ -272,10 +236,9 @@ Además, se aprendió a:
 - Crear DataFrames.
 - Leer archivos CSV.
 - Realizar operaciones matemáticas entre columnas.
-- Generar estadísticas automáticas.
-- Filtrar información.
+- Organizar información de manera eficiente.
 - Trabajar con datos sintéticos.
-- Organizar información de forma eficiente.
+- Utilizar herramientas fundamentales para Ciencia de Datos.
 
 ---
 
@@ -285,7 +248,7 @@ Además, se aprendió a:
 - Facilita enormemente el procesamiento de información estructurada.
 - Es ampliamente utilizada en Ciencia de Datos e Inteligencia Artificial.
 - Los ejercicios desarrollados permitieron fortalecer habilidades en Python y análisis de datos.
-- Google Colab y GitHub permiten desarrollar proyectos de programación de manera organizada, profesional y accesible.
+- Google Colab y GitHub permiten desarrollar proyectos de programación de manera organizada y profesional.
 
 ---
 
