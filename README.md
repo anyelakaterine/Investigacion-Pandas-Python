@@ -1,4 +1,4 @@
- # Investigación sobre Pandas en Python
+# Investigación sobre Pandas en Python
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="180">
@@ -77,7 +77,7 @@ Pandas sirve para:
 - Realizar cálculos automáticos.
 - Procesar grandes cantidades de datos.
 - Leer archivos CSV y Excel.
-- Manipular tablas de datos.
+- Manipular tablas de información.
 
 ---
 
@@ -129,34 +129,38 @@ Ayuda a:
 
 En este ejercicio se creó un DataFrame con información de estudiantes utilizando diccionarios de Python.
 
-Se trabajó con:
+### Resultado obtenido
 
-- Filas
-- Columnas
-- Datos de texto
-- Datos numéricos
+Se logró crear correctamente una tabla organizada con nombres, edades y ciudades utilizando la estructura DataFrame de Pandas.  
+El ejercicio permitió comprender cómo almacenar y manipular información en filas y columnas de manera eficiente.
 
-## Resultado obtenido
+### Ejemplo del resultado
 
-Se logró organizar información en tablas utilizando filas y columnas mediante DataFrames de Pandas.
-
-<p align="center">
-  <img src="imagenes/ejercicio1.png" width="700">
-</p>
+| Nombre | Edad | Ciudad |
+|---|---|---|
+| Ana | 20 | Cali |
+| Luis | 25 | Bogotá |
+| Carlos | 30 | Medellín |
+| María | 22 | Cartagena |
 
 ---
 
 ## Ejercicio 2 — Operaciones entre columnas
 
-Se realizó el cálculo del salario anual de empleados utilizando operaciones matemáticas entre columnas.
+En este ejercicio se realizaron operaciones matemáticas entre columnas para calcular salarios anuales de empleados.
 
-## Resultado obtenido
+### Resultado obtenido
 
-Se calcularon automáticamente nuevos valores utilizando operaciones matemáticas entre columnas del DataFrame.
+Se calcularon automáticamente nuevos valores utilizando operaciones matemáticas entre columnas del DataFrame.  
+Esto permitió comprender cómo Pandas facilita cálculos automáticos sobre grandes cantidades de información.
 
-<p align="center">
-  <img src="imagenes/ejercicio2.png" width="700">
-</p>
+### Ejemplo del resultado
+
+| Empleado | Salario Mensual | Salario Anual |
+|---|---|---|
+| Juan | 2000 | 24000 |
+| María | 2500 | 30000 |
+| Pedro | 3000 | 36000 |
 
 ---
 
@@ -168,13 +172,17 @@ Se utilizó la función `read_csv()` para leer archivos externos y convertirlos 
   <img src="https://www.freecodecamp.org/news/content/images/2022/06/ss1.png" width="500">
 </p>
 
-## Resultado obtenido
+### Resultado obtenido
 
-Se logró importar información desde archivos CSV y visualizarla correctamente en formato tabular.
+Se logró importar información desde archivos CSV y visualizarla correctamente en formato tabular dentro de Pandas.
 
-<p align="center">
-  <img src="imagenes/ejercicio3.png" width="700">
-</p>
+### Ejemplo del resultado
+
+| Nombre | Edad | Ciudad |
+|---|---|---|
+| Ana | 20 | Cali |
+| Luis | 25 | Bogotá |
+| Carlos | 30 | Medellín |
 
 ---
 
@@ -186,32 +194,37 @@ Se generaron datos aleatorios utilizando NumPy para simular información real.
   <img src="https://numpy.org/images/logo.svg" width="300">
 </p>
 
-## Resultado obtenido
+### Resultado obtenido
 
-Se crearon datos sintéticos aleatorios para simular escenarios reales de análisis de datos.
+Se crearon datos sintéticos aleatorios para simular escenarios reales de análisis de información utilizando NumPy y Pandas.
 
-<p align="center">
-  <img src="imagenes/ejercicio4.png" width="700">
-</p>
+### Ejemplo del resultado
+
+| ID | Edad | Salario |
+|---|---|---|
+| 1 | 22 | 1800 |
+| 2 | 30 | 2500 |
+| 3 | 27 | 3200 |
+| 4 | 35 | 4100 |
 
 ---
 
 ## Ejercicio 5 — Estadísticas básicas
 
-Se utilizaron funciones estadísticas automáticas como:
+Se utilizaron funciones estadísticas automáticas como promedio, valor mínimo, valor máximo y desviación estándar.
 
-- Promedio
-- Valor mínimo
-- Valor máximo
-- Desviación estándar
-
-## Resultado obtenido
+### Resultado obtenido
 
 Se obtuvieron estadísticas automáticas sobre los datos numéricos utilizando la función `describe()` de Pandas.
 
-<p align="center">
-  <img src="imagenes/ejercicio5.png" width="700">
-</p>
+### Ejemplo del resultado
+
+| Estadística | Valor |
+|---|---|
+| Promedio | 24.25 |
+| Mínimo | 20 |
+| Máximo | 30 |
+| Desviación estándar | 4.35 |
 
 ---
 
@@ -219,13 +232,16 @@ Se obtuvieron estadísticas automáticas sobre los datos numéricos utilizando l
 
 Se aplicaron filtros para mostrar únicamente registros específicos según condiciones establecidas.
 
-## Resultado obtenido
+### Resultado obtenido
 
-Se logró filtrar información específica dentro del DataFrame utilizando condiciones lógicas.
+Se logró filtrar información específica dentro del DataFrame utilizando condiciones lógicas para seleccionar determinados registros.
 
-<p align="center">
-  <img src="imagenes/ejercicio6.png" width="700">
-</p>
+### Ejemplo del resultado
+
+| Nombre | Edad |
+|---|---|
+| Luis | 25 |
+| Carlos | 30 |
 
 ---
 
@@ -249,15 +265,17 @@ Se logró filtrar información específica dentro del DataFrame utilizando condi
 
 # Resultados Obtenidos
 
-Se logró comprender el uso de Pandas para:
+Durante el desarrollo de la actividad se logró comprender el uso de Pandas para la creación, manipulación y análisis de datos.
+
+Además, se aprendió a:
 
 - Crear DataFrames.
 - Leer archivos CSV.
-- Manipular columnas.
-- Generar estadísticas.
+- Realizar operaciones matemáticas entre columnas.
+- Generar estadísticas automáticas.
 - Filtrar información.
 - Trabajar con datos sintéticos.
-- Analizar información de manera eficiente.
+- Organizar información de forma eficiente.
 
 ---
 
@@ -266,8 +284,8 @@ Se logró comprender el uso de Pandas para:
 - Pandas es una librería esencial para el análisis y manipulación de datos.
 - Facilita enormemente el procesamiento de información estructurada.
 - Es ampliamente utilizada en Ciencia de Datos e Inteligencia Artificial.
-- Los ejercicios permitieron fortalecer habilidades en Python y análisis de datos.
-- Google Colab y GitHub permiten desarrollar proyectos de programación de forma organizada y profesional.
+- Los ejercicios desarrollados permitieron fortalecer habilidades en Python y análisis de datos.
+- Google Colab y GitHub permiten desarrollar proyectos de programación de manera organizada, profesional y accesible.
 
 ---
 
@@ -279,10 +297,4 @@ Investigacion-Pandas-Python/
 ├── README.md
 ├── Investigacion_Pandas.ipynb
 └── imagenes/
-    ├── ejercicio1.png
-    ├── ejercicio2.png
-    ├── ejercicio3.png
-    ├── ejercicio4.png
-    ├── ejercicio5.png
-    └── ejercicio6.png
 ```
