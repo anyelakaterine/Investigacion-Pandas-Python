@@ -222,6 +222,6 @@ Además, se fortalecieron habilidades en programación con Python y manipulació
 
 # Enlace del Notebook en Google Colab
 
-[![Open In Colab](https://colab.research.google.com/notebooks/intro.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/intro.ipynb)
 
 
