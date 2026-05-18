@@ -1,8 +1,10 @@
 # Investigación sobre Pandas en Python
 
 # Abrir Notebook en Google Colab
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="180">
+</p>
 
-# Abrir Notebook en Google Colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/intro.ipynb)
 
