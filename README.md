@@ -125,15 +125,24 @@ El DataFrame permite organizar la información en filas y columnas de manera sim
 
 ## Ejercicio 2 — Operaciones entre columnas
 
-En este ejercicio se realizaron operaciones matemáticas entre columnas para calcular el salario anual de los empleados.
+En este ejercicio se realizaron operaciones matemáticas entre columnas para calcular el salario anual de los empleados utilizando Pandas.
 
 ### Resultado obtenido
 
+Se creó una nueva columna llamada `Salario_Anual` multiplicando el salario mensual por 12.
+
+Además, se mostró la información organizada visualmente en formato de tabla utilizando `display()`.
+
+### Ejemplo del resultado
+
+### TABLA DE SALARIOS
+
 | Índice | Empleado | Salario_Mensual | Salario_Anual |
 |---|---|---|---|
-| 0 | Ana | 2000 | 24000 |
-| 1 | Luis | 2500 | 30000 |
-| 2 | Carlos | 3000 | 36000 |
+| 0 | Ana | 200000 | 2400000 |
+| 1 | Luis | 250000 | 3000000 |
+| 2 | Carlos | 300000 | 3600000 |
+
 
 
 ## Ejercicio 3 — Lectura de archivos CSV
