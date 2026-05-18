@@ -8,13 +8,11 @@
   <img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" width="250">
 </p>
 
----
 
 # Abrir Notebook en Google Colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/intro.ipynb)
 
----
 
 ## Autor
 **Anyela Katerine Rentería Cuama**
@@ -32,13 +30,12 @@ Este proyecto contiene una investigación completa sobre la librería Pandas de 
 
 La actividad fue desarrollada en Google Colab y posteriormente organizada en un repositorio de GitHub, incluyendo ejercicios prácticos y explicación detallada de cada tema investigado.
 
----
+
 
 # Objetivo General
 
 Comprender el funcionamiento de la librería Pandas y aprender a utilizar sus principales herramientas para la manipulación, organización y análisis de datos.
 
----
 
 # Objetivos Específicos
 
@@ -49,7 +46,6 @@ Comprender el funcionamiento de la librería Pandas y aprender a utilizar sus pr
 - Aprender a leer archivos CSV.
 - Trabajar con datos sintéticos utilizando NumPy.
 
----
 
 # Temas Investigados
 
@@ -63,7 +59,7 @@ Pandas es una librería de Python especializada en el análisis y manipulación 
 
 Permite trabajar con tablas, filas y columnas de manera sencilla y eficiente.
 
----
+
 
 ## ¿Para qué sirve?
 
@@ -75,7 +71,6 @@ Pandas sirve para:
 - Realizar cálculos automáticos.
 - Procesar grandes cantidades de datos.
 
----
 
 ## Objetivo principal de Pandas
 
@@ -94,7 +89,6 @@ Ayuda a:
 - Organizar datasets.
 - Analizar patrones.
 
----
 
 # Explicación de los ejercicios realizados
 
@@ -115,7 +109,6 @@ Se trabajó con:
   <img src="imagenes/ejercicio1.png" width="700">
 </p>
 
----
 
 ## Ejercicio 2 — Operaciones entre columnas
 
@@ -127,7 +120,6 @@ Se realizó el cálculo del salario anual de empleados utilizando operaciones ma
   <img src="imagenes/ejercicio2.png" width="700">
 </p>
 
----
 
 ## Ejercicio 3 — Lectura de archivos CSV
 
@@ -143,7 +135,6 @@ Se utilizó la función `read_csv()` para leer archivos externos y convertirlos 
   <img src="imagenes/ejercicio3.png" width="700">
 </p>
 
----
 
 ## Ejercicio 4 — Datos sintéticos
 
@@ -159,7 +150,6 @@ Se generaron datos aleatorios utilizando NumPy para simular información real.
   <img src="imagenes/ejercicio4.png" width="700">
 </p>
 
----
 
 ## Ejercicio 5 — Estadísticas básicas
 
@@ -176,7 +166,6 @@ Se utilizaron funciones estadísticas automáticas como:
   <img src="imagenes/ejercicio5.png" width="700">
 </p>
 
----
 
 ## Ejercicio 6 — Filtrado de datos
 
@@ -188,7 +177,6 @@ Se aplicaron filtros para mostrar únicamente registros específicos según cond
   <img src="imagenes/ejercicio6.png" width="700">
 </p>
 
----
 
 # Herramientas Utilizadas
 
@@ -206,7 +194,6 @@ Se aplicaron filtros para mostrar únicamente registros específicos según cond
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="180">
 </p>
 
----
 
 # Resultados Obtenidos
 
@@ -219,7 +206,6 @@ Se logró comprender el uso de Pandas para:
 - Filtrar información.
 - Trabajar con datos sintéticos.
 
----
 
 # Conclusiones
 
@@ -228,22 +214,4 @@ Se logró comprender el uso de Pandas para:
 - Es ampliamente utilizada en Inteligencia Artificial y Ciencia de Datos.
 - Los ejercicios permitieron fortalecer habilidades en Python y análisis de datos.
 - Google Colab y GitHub permiten organizar y compartir proyectos de programación de forma profesional.
-
----
-
-# Estructura del Proyecto
-
-```text
-Investigacion-Pandas-Python/
-│
-├── README.md
-├── Investigacion_Pandas.ipynb
-└── imagenes/
-    ├── ejercicio1.png
-    ├── ejercicio2.png
-    ├── ejercicio3.png
-    ├── ejercicio4.png
-    ├── ejercicio5.png
-    └── ejercicio6.png
-```
 
