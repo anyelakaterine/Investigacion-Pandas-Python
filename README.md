@@ -1,32 +1,36 @@
 # Investigación sobre Pandas en Python
 
-# Abrir Notebook en Google Colab
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="180">
 </p>
 
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/intro.ipynb)
-
-## Autor
-Anyela Katerine Rentería Cuama
-
-## Programa Académico
-Ingeniería de Sistemas
+<p align="center">
+  <img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" width="250">
+</p>
 
 ---
 
 # Abrir Notebook en Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=y6Q4BmXi8cjE&line=81&uniqifier=1)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/intro.ipynb)
 
 ---
 
+## Autor
+**Anyela Katerine Rentería Cuama**
+
+## Programa Académico
+**Ingeniería de Sistemas**
+
 # Descripción de la actividad
 
-Este proyecto contiene una investigación completa sobre la librería Pandas de Python, una de las herramientas más utilizadas en análisis de datos, Ciencia de Datos e Inteligencia Artificial.
+Este proyecto contiene una investigación completa sobre la librería Pandas de Python, una de las herramientas más utilizadas en análisis de datos, ciencia de datos e Inteligencia Artificial.
 
-La actividad fue desarrollada en Google Colab y posteriormente organizada en GitHub, incluyendo ejercicios prácticos y explicación detallada de cada tema investigado.
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="300">
+</p>
+
+La actividad fue desarrollada en Google Colab y posteriormente organizada en un repositorio de GitHub, incluyendo ejercicios prácticos y explicación detallada de cada tema investigado.
 
 ---
 
@@ -47,77 +51,65 @@ Comprender el funcionamiento de la librería Pandas y aprender a utilizar sus pr
 
 ---
 
-# ¿Qué es Pandas?
+# Temas Investigados
 
-<p align="center">
-  <img src="https://www.w3resource.com/w3r_images/pandas-dataframe-image.png" width="500">
-</p>
+## ¿Qué es Pandas?
 
 Pandas es una librería de Python especializada en el análisis y manipulación de datos estructurados.
 
-Permite trabajar con tablas, filas y columnas de manera sencilla y eficiente mediante estructuras llamadas DataFrames.
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*5N0Q1Jv7zQF7QK1D-g20_Q.png" width="500">
+</p>
+
+Permite trabajar con tablas, filas y columnas de manera sencilla y eficiente.
 
 ---
 
-# ¿Para qué sirve Pandas?
+## ¿Para qué sirve?
 
 Pandas sirve para:
 
-- Organizar datos.
 - Analizar información.
+- Organizar datos.
 - Limpiar registros incorrectos.
-- Procesar grandes cantidades de información.
-- Leer archivos CSV y Excel.
 - Realizar cálculos automáticos.
+- Procesar grandes cantidades de datos.
 
 ---
 
-# Objetivo principal de Pandas
+## Objetivo principal de Pandas
 
-El objetivo principal de Pandas es facilitar el procesamiento y análisis de datos mediante herramientas rápidas y fáciles de utilizar.
-
----
-
-# Principales funciones y características
-
-| Función | Descripción |
-|---|---|
-| DataFrame() | Crear tablas |
-| read_csv() | Leer archivos CSV |
-| describe() | Mostrar estadísticas |
-| head() | Mostrar primeras filas |
-| sort_values() | Ordenar información |
-| dropna() | Eliminar datos vacíos |
+El objetivo principal de Pandas es facilitar el procesamiento y análisis de datos mediante herramientas rápidas y fáciles de usar.
 
 ---
 
-# Importancia de Pandas en Inteligencia Artificial
+## Importancia en Inteligencia Artificial
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Artificial_Intelligence_%26_AI_%26_Machine_Learning_-_30212411048.jpg" width="500">
-</p>
-
-Pandas es fundamental en Inteligencia Artificial porque permite preparar y organizar los datos antes de entrenar modelos inteligentes.
+Pandas es fundamental en Inteligencia Artificial porque permite preparar los datos antes de entrenar modelos inteligentes.
 
 Ayuda a:
 
-- Limpiar información.
+- Limpiar datos.
+- Eliminar errores.
 - Organizar datasets.
-- Detectar errores.
 - Analizar patrones.
-- Procesar datos rápidamente.
 
 ---
 
-# Ejercicios Realizados
+# Explicación de los ejercicios realizados
 
----
+## Ejercicio 1 — Creación de DataFrames
 
-# Ejercicio 1 — Creación de DataFrame
+En este ejercicio se creó un DataFrame con información de estudiantes utilizando diccionarios de Python.
 
-En este ejercicio se creó un DataFrame utilizando diccionarios de Python.
+Se trabajó con:
 
-## Captura del ejercicio
+- Filas
+- Columnas
+- Datos de texto
+- Datos numéricos
+
+## Captura del Ejercicio 1
 
 <p align="center">
   <img src="imagenes/ejercicio1.png" width="700">
@@ -125,11 +117,11 @@ En este ejercicio se creó un DataFrame utilizando diccionarios de Python.
 
 ---
 
-# Ejercicio 2 — Operaciones entre columnas
+## Ejercicio 2 — Operaciones entre columnas
 
-Se realizaron operaciones matemáticas entre columnas para calcular salarios anuales.
+Se realizó el cálculo del salario anual de empleados utilizando operaciones matemáticas entre columnas.
 
-## Captura del ejercicio
+## Captura del Ejercicio 2
 
 <p align="center">
   <img src="imagenes/ejercicio2.png" width="700">
@@ -137,15 +129,15 @@ Se realizaron operaciones matemáticas entre columnas para calcular salarios anu
 
 ---
 
-# Ejercicio 3 — Lectura de archivos CSV
+## Ejercicio 3 — Lectura de archivos CSV
+
+Se utilizó la función `read_csv()` para leer archivos externos y convertirlos en DataFrames.
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/CsvDelimited001.svg" width="300">
+  <img src="https://www.freecodecamp.org/news/content/images/2022/06/ss1.png" width="500">
 </p>
 
-En este ejercicio se utilizó la función `read_csv()` para leer archivos CSV y convertirlos en DataFrames.
-
-## Captura del ejercicio
+## Captura del Ejercicio 3
 
 <p align="center">
   <img src="imagenes/ejercicio3.png" width="700">
@@ -153,11 +145,15 @@ En este ejercicio se utilizó la función `read_csv()` para leer archivos CSV y 
 
 ---
 
-# Ejercicio 4 — Datos sintéticos
+## Ejercicio 4 — Datos sintéticos
 
-En este ejercicio se generaron datos aleatorios utilizando NumPy para simular información real.
+Se generaron datos aleatorios utilizando NumPy para simular información real.
 
-## Captura del ejercicio
+<p align="center">
+  <img src="https://numpy.org/images/logo.svg" width="300">
+</p>
+
+## Captura del Ejercicio 4
 
 <p align="center">
   <img src="imagenes/ejercicio4.png" width="700">
@@ -165,14 +161,31 @@ En este ejercicio se generaron datos aleatorios utilizando NumPy para simular in
 
 ---
 
-# Ejercicio Extra — Estadísticas básicas
+## Ejercicio 5 — Estadísticas básicas
 
-En este ejercicio se utilizaron funciones estadísticas automáticas como promedio, valor mínimo y valor máximo.
+Se utilizaron funciones estadísticas automáticas como:
 
-## Captura del ejercicio
+- Promedio
+- Valor mínimo
+- Valor máximo
+- Desviación estándar
+
+## Captura del Ejercicio 5
 
 <p align="center">
   <img src="imagenes/ejercicio5.png" width="700">
+</p>
+
+---
+
+## Ejercicio 6 — Filtrado de datos
+
+Se aplicaron filtros para mostrar únicamente registros específicos según condiciones establecidas.
+
+## Captura del Ejercicio 6
+
+<p align="center">
+  <img src="imagenes/ejercicio6.png" width="700">
 </p>
 
 ---
@@ -185,45 +198,52 @@ En este ejercicio se utilizaron funciones estadísticas automáticas como promed
 - Google Colab
 - GitHub
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="220">
+</p>
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="180">
+</p>
+
 ---
 
 # Resultados Obtenidos
 
-Se logró comprender el funcionamiento de Pandas para:
+Se logró comprender el uso de Pandas para:
 
 - Crear DataFrames.
-- Manipular columnas.
 - Leer archivos CSV.
+- Manipular columnas.
 - Generar estadísticas.
+- Filtrar información.
 - Trabajar con datos sintéticos.
-- Analizar información.
 
 ---
 
 # Conclusiones
 
-- Pandas es una librería fundamental para el análisis de datos.
+- Pandas es una librería esencial para el análisis de datos.
 - Facilita enormemente la manipulación de información.
-- Es ampliamente utilizada en Ciencia de Datos e Inteligencia Artificial.
-- Los ejercicios permitieron fortalecer habilidades en Python.
-- Google Colab y GitHub permiten desarrollar proyectos de programación de forma organizada y profesional.
+- Es ampliamente utilizada en Inteligencia Artificial y Ciencia de Datos.
+- Los ejercicios permitieron fortalecer habilidades en Python y análisis de datos.
+- Google Colab y GitHub permiten organizar y compartir proyectos de programación de forma profesional.
 
 ---
 
-# Enlace del Notebook en Google Colab
+# Estructura del Proyecto
 
-Agregar aquí el enlace del notebook.
+```text
+Investigacion-Pandas-Python/
+│
+├── README.md
+├── Investigacion_Pandas.ipynb
+└── imagenes/
+    ├── ejercicio1.png
+    ├── ejercicio2.png
+    ├── ejercicio3.png
+    ├── ejercicio4.png
+    ├── ejercicio5.png
+    └── ejercicio6.png
+```
 
-Ejemplo:
-
-https://colab.research.google.com/
-
----
-
-# Enlace del Repositorio en GitHub
-
-Agregar aquí el enlace del repositorio.
-
-Ejemplo:
-
-https://github.com/
