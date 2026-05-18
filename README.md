@@ -16,7 +16,7 @@ Ingeniería de Sistemas
 
 # Abrir Notebook en Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](AQUI_PEGA_EL_LINK_DE_TU_COLAB)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=y6Q4BmXi8cjE&line=81&uniqifier=1)
 
 ---
 
