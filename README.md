@@ -73,7 +73,7 @@ El objetivo principal de Pandas es facilitar el procesamiento y análisis de dat
 Pandas es fundamental en Inteligencia Artificial porque permite preparar los datos antes de entrenar modelos inteligentes.
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Artificial_intelligence_prompt_completion_by_dalle_mini.jpg" width="500">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Artificial_Intelligence_%26_AI_%26_Machine_Learning_-_30212411048.jpg" width="500">
 </p>
 
 Ayuda a:
