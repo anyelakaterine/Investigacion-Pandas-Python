@@ -1,7 +1,7 @@
 # Investigación sobre Pandas en Python
 
 <p align="center">
-  <img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" width="400">
+  <img src="https://colab.research.google.com/notebooks/intro.ipynb">
 </p>
 
 ---
