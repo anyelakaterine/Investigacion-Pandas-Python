@@ -8,13 +8,11 @@
   <img src="https://pandas.pydata.org/static/img/pandas_secondary.svg" width="250">
 </p>
 
----
 
 # Abrir Notebook en Google Colab
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/intro.ipynb)
 
----
 
 ## Autor
 **Anyela Katerine Rentería Cuama**
@@ -22,7 +20,6 @@
 ## Programa Académico
 **Ingeniería de Sistemas**
 
----
 
 # Descripción de la actividad
 
@@ -34,13 +31,9 @@ Este proyecto contiene una investigación completa sobre la librería Pandas de 
 
 La actividad fue desarrollada en Google Colab y posteriormente organizada en un repositorio de GitHub, incluyendo ejercicios prácticos y explicación detallada de cada tema investigado.
 
----
-
 # Objetivo General
 
 Comprender el funcionamiento de la librería Pandas y aprender a utilizar sus principales herramientas para la manipulación, organización y análisis de datos.
-
----
 
 # Objetivos Específicos
 
@@ -50,8 +43,6 @@ Comprender el funcionamiento de la librería Pandas y aprender a utilizar sus pr
 - Desarrollar ejercicios prácticos utilizando DataFrames.
 - Aprender a leer archivos CSV.
 - Trabajar con datos sintéticos utilizando NumPy.
-
----
 
 # Temas Investigados
 
@@ -65,8 +56,6 @@ Pandas es una librería de Python especializada en el análisis y manipulación 
 
 Permite trabajar con tablas, filas y columnas de manera sencilla y eficiente mediante estructuras llamadas DataFrames.
 
----
-
 ## ¿Para qué sirve?
 
 Pandas sirve para:
@@ -79,13 +68,10 @@ Pandas sirve para:
 - Leer archivos CSV y Excel.
 - Manipular tablas de información.
 
----
-
 ## Objetivo principal de Pandas
 
 El objetivo principal de Pandas es facilitar el procesamiento y análisis de datos mediante herramientas rápidas, eficientes y fáciles de usar.
 
----
 
 ## Principales funciones y características
 
@@ -100,7 +86,6 @@ El objetivo principal de Pandas es facilitar el procesamiento y análisis de dat
 | `sort_values()` | Ordenar información |
 | `loc[]` | Filtrar datos |
 
----
 
 ## Importancia de Pandas en Inteligencia Artificial
 
@@ -119,11 +104,9 @@ Ayuda a:
 - Preparar información para Machine Learning.
 - Procesar grandes volúmenes de datos.
 
----
 
 # Explicación de los ejercicios realizados
 
----
 
 ## Ejercicio 1 — Creación de DataFrame
 
@@ -140,8 +123,6 @@ El DataFrame permite organizar la información en filas y columnas de manera sim
 | 2 | Helen | 30 | Medellín |
 | 3 | Yeison | 22 | Cartagena |
 
----
-
 ## Ejercicio 2 — Operaciones entre columnas
 
 En este ejercicio se realizaron operaciones matemáticas entre columnas para calcular el salario anual de los empleados.
@@ -154,7 +135,6 @@ En este ejercicio se realizaron operaciones matemáticas entre columnas para cal
 | 1 | Luis | 2500 | 30000 |
 | 2 | Carlos | 3000 | 36000 |
 
----
 
 ## Ejercicio 3 — Lectura de archivos CSV
 
@@ -173,7 +153,6 @@ Se creó un archivo CSV utilizando Pandas y posteriormente se leyó con la funci
 | 2 | Carlos | 30 | Medellín |
 | 3 | María | 22 | Buenaventura |
 
----
 
 ## Ejercicio 4 — Datos sintéticos
 
@@ -198,7 +177,6 @@ En este ejercicio se generaron datos aleatorios utilizando NumPy para simular in
 | 8 | 791 | 336 |
 | 9 | 154 | 208 |
 
----
 
 # Resultados Obtenidos
 
@@ -215,8 +193,6 @@ Los ejercicios realizados permitieron:
 
 Además, se fortalecieron habilidades en programación con Python y manipulación de datos estructurados.
 
----
-
 # Conclusiones
 
 - Pandas es una de las librerías más importantes de Python para el análisis y manipulación de datos.
@@ -225,8 +201,6 @@ Además, se fortalecieron habilidades en programación con Python y manipulació
 - La librería es ampliamente utilizada en Ciencia de Datos, Machine Learning e Inteligencia Artificial.
 - Los ejercicios prácticos desarrollados ayudaron a comprender mejor el funcionamiento de Pandas y su aplicación en proyectos reales.
 - Google Colab y GitHub son herramientas fundamentales para desarrollar, almacenar y compartir proyectos de programación de forma profesional.
-
----
 
 # Herramientas Utilizadas
 
@@ -244,22 +218,10 @@ Además, se fortalecieron habilidades en programación con Python y manipulació
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="180">
 </p>
 
----
 
-# Estructura del Proyecto
-
-```text
-Investigacion-Pandas-Python/
-│
-├── README.md
-├── Investigacion_Pandas.ipynb
-└── imagenes/
-```
-
----
 
 # Enlace del Notebook en Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/intro.ipynb)
+[![Open In Colab](https://colab.research.google.com/notebooks/intro.ipynb)
 
----
+
