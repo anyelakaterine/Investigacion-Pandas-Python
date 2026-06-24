@@ -51,7 +51,8 @@ Comprender el funcionamiento de la librería Pandas y aprender a utilizar sus pr
 Pandas es una librería de Python especializada en el análisis y manipulación de datos estructurados.
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*5N0Q1Jv7zQF7QK1D-g20_Q.png" width="500">
+  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1dbef899-7cc3-4ac8-9e6f-ec4befad876b" />
+
 </p>
 
 Permite trabajar con tablas, filas y columnas de manera sencilla y eficiente mediante estructuras llamadas DataFrames.
